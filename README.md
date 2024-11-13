@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Satyam
-- 👀 I’m interested in wEB DEV 
+- 👀 I’m interested in WEB DEV 
 - 🌱 I’m currently learning everything which i s coming in my way
 - 💞️ I’m looking to collaborate on python and java projects
 - 📫 How to reach me -discord(soberzoro)
